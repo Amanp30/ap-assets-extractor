@@ -4,7 +4,6 @@
   "description": "Extract assets path from html file to use for pwa cache",
   "main": "lib/index.js",
   "scripts": {},
-  "private": true,
   "files": [
     "lib"
   ],
