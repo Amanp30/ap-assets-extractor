@@ -1,0 +1,28 @@
+{
+  "name": "ap-assets-extractor",
+  "version": "1.0.0",
+  "description": "Extract assets path from html file to use for pwa cache",
+  "main": "lib/index.js",
+  "scripts": {},
+  "private": true,
+  "files": [
+    "lib"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amanp30/ap-assets-extractor.git"
+  },
+  "keywords": [
+    "extract-assets",
+    "extract-files-path"
+  ],
+  "author": "Aman Pareek (https://amanpareek.in/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amanp30/ap-assets-extractor/issues"
+  },
+  "homepage": "https://github.com/Amanp30/ap-assets-extractor#readme"
+}
